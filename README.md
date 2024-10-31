@@ -15,8 +15,8 @@ This project demonstrates the development of a basic Angular application along w
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/206069618/MSS_Project_Abongile.git
+cd MSS_Project_Abongile
 ```
 
 Navigate to the Angular application directory:
