@@ -162,7 +162,7 @@ Tests are written in Gherkin syntax in .feature files located in the `test/featu
 
 ##Report Generation
 ```bash
-MMS Project_Abongile\playwright-automation-framwork-BDD-main\cucumber-report.html
+MMS Project_Abongile\playwright-automation-framwork-BDD-main\test-results\report
 
 ```
 ### Example Test
