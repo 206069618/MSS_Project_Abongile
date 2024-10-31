@@ -1,0 +1,2 @@
+AngularApp/*.zip filter=lfs diff=lfs merge=lfs -text
+PlaywrightBDDTests/*.zip filter=lfs diff=lfs merge=lfs -text
